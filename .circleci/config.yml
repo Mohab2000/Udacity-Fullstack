@@ -33,7 +33,7 @@ jobs:
       - run:
           name: Front-End Lint
           command: |
-            echo "TODO: Lint the frontend"
+            frontend:lint
       # TODO: Build the frontend app
       - run:
           name: Front-End Build
@@ -43,7 +43,7 @@ jobs:
       - run:
           name: API Build
           command: |
-            # npm run api:build
+            npm run api:build
   # deploy step will run only after manual approval
   deploy:
     docker:
