@@ -59,7 +59,7 @@ jobs:
           name: Deploy App
           # TODO: Install, build, deploy in both apps
           command: |
-            npm cache clean --force && npm run deploy
+            npm cache clean --force && && npm run build -prod && npm run deploy
 
 workflows:
   udagram:
