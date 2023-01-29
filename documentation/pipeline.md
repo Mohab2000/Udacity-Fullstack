@@ -1,0 +1,1 @@
+When the developers commit and push the changes, circle ci checks for changes made and track them, then it sends them to someone who is responsible whether to accept or reject these changes , if he/she accepted it gets committed successfully.
