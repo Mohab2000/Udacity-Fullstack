@@ -38,18 +38,18 @@
 ### Environment variables used
 
 ```
-POSTGRES_USERNAME= "postgres"
-POSTGRES_PASSWORD = "postgres"
-POSTGRES_HOST = "udagram-1.cojokxty5mbd.us-east-1.rds.amazonaws.com"
-POSTGRES_DB = "postgres"
-AWS_BUCKET = "arn:aws:s3:::mohab-udagram"
-AWS_REGION = "us-east-1"
-AWS_PROFILE = "default"
-JWT_SECRET = "mysecretstring"
-URL = "http://udagram-1.cojokxty5mbd.us-east-1.rds.amazonaws.com"
-AWS_ACCESS_KEY_ID = "AKIA4J3FLUA7KNPIV3GU"
-AWS_SECRET_ACCESS_KEY = "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"
-PORT = 8080
-DB_PORT=5432
-RDS_DIALECT = "postgres"
+POSTGRES_USERNAME= ""
+POSTGRES_PASSWORD = ""
+POSTGRES_HOST = ""
+POSTGRES_DB = ""
+AWS_BUCKET = ""
+AWS_REGION = ""
+AWS_PROFILE = ""
+JWT_SECRET = ""
+URL = ""
+AWS_ACCESS_KEY_ID = "
+AWS_SECRET_ACCESS_KEY = ""
+PORT = 
+DB_PORT=
+RDS_DIALECT = ""
 ```
