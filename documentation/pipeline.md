@@ -24,6 +24,7 @@
 -Registered at CIRCLE CI and linked my account with github
 -Lastly, I could access all the projects in github through CIRCLE CI
 -CircleCI pipelines are the highest-level unit of work, encompassing a project's full . circleci/config. yml file
+-Setting all the scripts in circleci folder.
 
 ### Why Circle CI?
 
